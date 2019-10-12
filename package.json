@@ -1,0 +1,14 @@
+{
+  "name": "zlxfy.bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "InDex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "z⃤L⃤x⃤f⃤y⃤",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
